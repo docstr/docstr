@@ -1,7 +1,7 @@
 <h1> Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> </h1>
 <p>🌱 I’m currently learning Golang + PostgreSQL</p>
 <p>🔭 I’m currently working on website for the Football Federation in the Republic of Tajikistan and over 2 more sites, which I work</p>
-<p> Below I will leave links to my social networks, where I share information about IT and my achievements  </p>
+<p>💬 Below I will leave links to my social networks, where I share information about IT and my achievements  </p>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/eg4q8ka6zQuQ2qgKwe/giphy.gif" width="400"/>
