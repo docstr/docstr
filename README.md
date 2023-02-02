@@ -7,7 +7,7 @@
   <img src="https://media.giphy.com/media/eg4q8ka6zQuQ2qgKwe/giphy.gif" width="400"/>
 </div>
 
-📫 How to reach me:
+<p>📫 How to reach me:</p>
 <div id="badges">
   <a href="https://www.linkedin.com/in/oliya-rakhmatova-14a48a204/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
