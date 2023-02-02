@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <h1> Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> </h1>
 <p> Below I will leave links to my social networks, where I share information about IT and my achievements  </p>
 
